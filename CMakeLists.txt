@@ -35,7 +35,7 @@ message ("Binary Dir:	${PROJECT_BINARY_DIR}")
 include_directories("inc" "3rdparty")
 
 
-add_executable (gravitySimulation src/gravitySimulation_unity.cpp "src/window.cpp" "src/window.h" "src/engine.h" "src/engine.cpp")
+add_executable (gravitySimulation src/gravitySimulation_unity.cpp)
 
 
 # fetch -------------------------------------------------------------------------------------------
