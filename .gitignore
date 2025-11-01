@@ -370,6 +370,7 @@ FodyWeavers.xsd
 /out
 
 
-## vs
-#
-#.vs/
+# vs
+
+.vs/
+*slnx.sqlite
