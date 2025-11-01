@@ -373,7 +373,8 @@ FodyWeavers.xsd
 # vs
 
 .vs/
+/.vs/*
 #.vs/slnx.*
 
-/.vs/slnx.sqlite/
-.vs/slnx.sqlite/
+*slnx.sqlite
+
